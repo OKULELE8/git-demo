@@ -2,8 +2,6 @@
 
 This is the first file in this repo.
 
-## Ipsum Below
-
-blablabla to bude sranda ještě
-tady ještě něco hodím znova
+## Website Contents
+1. index.html
 
